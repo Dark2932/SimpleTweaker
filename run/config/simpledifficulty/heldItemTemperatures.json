@@ -1,0 +1,18 @@
+{
+  "minecraft:magma": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "minecraft:torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ]
+}
